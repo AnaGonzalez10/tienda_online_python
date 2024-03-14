@@ -27,3 +27,8 @@ i- nventario: Una lista de diccionarios que almacena los productos en el inventa
 - registrar_compra(self, nombre_cliente, carrito): Registra una compra para un cliente, actualiza las ventas totales y agrega la   compra al historial del cliente.
 - ver_compras_cliente(self, nombre_cliente): Muestra el historial de compras de un cliente.
 - calcular_ventas_totales(self): Muestra las ventas totales de la tienda.
+
+## Autor
+
+Este proyecto fue realizado por Ana González Gutiérrez
+Linkedin:  www.linkedin.com/in/ana-gonzález-121979185
